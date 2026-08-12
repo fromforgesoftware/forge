@@ -2,7 +2,7 @@ apiVersion: v2
 name: forge
 description: Forge admin console (Vue SPA served by nginx).
 type: application
-version: 0.1.0
-appVersion: '0.1.0'
+version: 0.1.4
+appVersion: '0.1.4'
 maintainers:
   - name: Forge
